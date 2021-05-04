@@ -9,7 +9,7 @@ Hello there, This repo contain small scripts or something like that which will d
 * Change `User = "Nikhil Verma"` with your own name or with user name.
 * Save it or Hit ctrl + s.
 * Change the file type with _All file type_.
-* Name it whatever you want with extension of 'vbs'.
+* Name it whatever you want with extension of '.vbs'.
 * Save it to any location you want for example at your Desktop.
 * Now Cut/Copy the script and paste it to startup folder.
 ###### Local startup folder
@@ -27,7 +27,7 @@ Hello there, This repo contain small scripts or something like that which will d
 * Replace _password_ with your own password at line 45 (`if NOT %pass%==password goto FAIL`).
 * Save it or Hit ctrl + s.
 * Change the file type with _All file type_.
-* Name it whatever you want with extension of 'bat'.
+* Name it whatever you want with extension of '.bat'.
 * Save it to any location where want to make locker.
 * Close notepad and run newly created '.bat' file.
 * It will make locker to current location for you.
@@ -39,7 +39,29 @@ Hello there, This repo contain small scripts or something like that which will d
 * Re running '.bat' will prompt you for password.
 * Type your password and hit enter to unlock the Locker.
 
+<span style="color:red">**Be sure to hide this batch file else anyone can change your password using edit option**</span>
+
+***
+#### [File_Deleter.bat](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows/blob/main/File_Deleter.bat)
+* Open notepad.
+* Copy the script.
+* Paste it in notepad.
+* Save it or Hit ctrl + s.
+* Change the file type with _All file type_.
+* Name it whatever you want with extension of '.bat'.
+* Save it to any location where want.
+* Close notepad and run newly created '.bat' file.
+* Enter the required details and hit enter
+
+<span style="color:yellow">**Wrong location/no of days/extention without '*.' may result failure.**</span>
+
+<span style="color:red">**It will directly delete file without sending them to recycle bin.**</span>
+
+[File Extentions](https://en.wikipedia.org/wiki/List_of_file_formats)
+
+***
 If you find any script usefull then don't forget to give it a star.
+
 Thank you.
 
 My Apps [Google Play Store](https://play.google.com/store/apps/dev?id=5011720043750659265)
