@@ -60,6 +60,17 @@ Hello there, This repo contain small scripts or something like that which will d
 [File Extentions](https://en.wikipedia.org/wiki/List_of_file_formats)
 
 ***
+#### [Wifi_pass.bat](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows/blob/main/Wifi_pass.bat)
+* Open notepad.
+* Copy the script.
+* Paste it in notepad.
+* Save it or Hit ctrl + s.
+* Change the file type with _All file type_.
+* Name it whatever you want with extension of '.bat'.
+* Save it to any location where want.
+* Close notepad and run newly created '.bat' file.
+
+***
 If you find any script usefull then don't forget to give it a star.
 
 Thank you.
